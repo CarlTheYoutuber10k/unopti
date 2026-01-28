@@ -8,3 +8,5 @@ it currently has 565 lines of code
 it currently uses 109 elif function (dont ask why)
 
 it currently has a size of 12KB
+
+CURRENTLY REMAKING
